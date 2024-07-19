@@ -21,7 +21,7 @@ Clone the Repository
 
 
 ```
-git clone https://github.com/yourusername/file-monitoring-script.git
+git clone https://github.com/CyberCron/Yellow-Canary.git
 cd file-monitoring-script
 ```
 
@@ -47,7 +47,7 @@ Run the Script
 
 Execute the script to start creating files and monitoring them:
 
-YellowCanary.py
+```YellowCanary.py```
 Monitor the Log File
 
 The script will create a log file named YellowCanary-events.log in the Windows directory, where all changes will be recorded.
